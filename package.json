@@ -1,0 +1,10 @@
+{
+  "name": "pairtex",
+  "version": "0.1.0",
+  "description": "A local, Git-native review + feedback layer for existing LaTeX projects.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
